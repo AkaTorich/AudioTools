@@ -1,0 +1,13 @@
+C:\Users\Admin\Desktop\AudioTools\bin\Debug\libmp3lame.32.dll
+C:\Users\Admin\Desktop\AudioTools\bin\Debug\libmp3lame.64.dll
+C:\Users\Admin\Desktop\AudioTools\bin\Debug\AudioConverter.exe.config
+C:\Users\Admin\Desktop\AudioTools\bin\Debug\AudioConverter.exe
+C:\Users\Admin\Desktop\AudioTools\bin\Debug\AudioConverter.pdb
+C:\Users\Admin\Desktop\AudioTools\AudioConverter\obj\Debug\AudioConverter.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\AudioTools\AudioConverter\obj\Debug\WAVConverter.Form1.resources
+C:\Users\Admin\Desktop\AudioTools\AudioConverter\obj\Debug\WAVConverter.Properties.Resources.resources
+C:\Users\Admin\Desktop\AudioTools\AudioConverter\obj\Debug\AudioConverter.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\AudioTools\AudioConverter\obj\Debug\AudioConverter.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\AudioTools\AudioConverter\obj\Debug\AudioCon.300F42DD.Up2Date
+C:\Users\Admin\Desktop\AudioTools\AudioConverter\obj\Debug\AudioConverter.exe
+C:\Users\Admin\Desktop\AudioTools\AudioConverter\obj\Debug\AudioConverter.pdb

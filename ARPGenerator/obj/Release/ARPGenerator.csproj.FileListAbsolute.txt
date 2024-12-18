@@ -1,0 +1,11 @@
+C:\Users\Admin\Desktop\AudioTools\bin\Release\ARPGenerator.exe.config
+C:\Users\Admin\Desktop\AudioTools\bin\Release\ARPGenerator.exe
+C:\Users\Admin\Desktop\AudioTools\bin\Release\ARPGenerator.pdb
+C:\Users\Admin\Desktop\AudioTools\ARPGenerator\obj\Release\ARPGenerator.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\AudioTools\ARPGenerator\obj\Release\MelodyGenerator.Form1.resources
+C:\Users\Admin\Desktop\AudioTools\ARPGenerator\obj\Release\ARPGenerator.Properties.Resources.resources
+C:\Users\Admin\Desktop\AudioTools\ARPGenerator\obj\Release\ARPGenerator.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\AudioTools\ARPGenerator\obj\Release\ARPGenerator.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\AudioTools\ARPGenerator\obj\Release\ARPGener.BD7B6687.Up2Date
+C:\Users\Admin\Desktop\AudioTools\ARPGenerator\obj\Release\ARPGenerator.exe
+C:\Users\Admin\Desktop\AudioTools\ARPGenerator\obj\Release\ARPGenerator.pdb
