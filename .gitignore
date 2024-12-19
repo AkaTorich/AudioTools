@@ -1,7 +1,13 @@
 # Сборки и мусор студии
 .vs/
 bin/
-*/obj/
+ARPGenerator/obj/
+AudioConverter/obj/
+ImageResizer/obj/
+PADGenerator/obj/
+Backgrounds/*.*
+build/
+dist/
 
 # Отладочные символы
 *.pdb
@@ -21,5 +27,3 @@ bin/
 # Временные файлы и папки сборки
 *.tmp
 *.log
-build/
-dist/
