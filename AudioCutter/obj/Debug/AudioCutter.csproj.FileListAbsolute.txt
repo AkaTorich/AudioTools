@@ -1,0 +1,11 @@
+C:\Users\Admin\Desktop\PsyShoutTools\bin\Debug\AudioCutter.exe.config
+C:\Users\Admin\Desktop\PsyShoutTools\bin\Debug\AudioCutter.exe
+C:\Users\Admin\Desktop\PsyShoutTools\bin\Debug\AudioCutter.pdb
+C:\Users\Admin\Desktop\PsyShoutTools\AudioCutter\obj\Debug\AudioCutter.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\PsyShoutTools\AudioCutter\obj\Debug\AudioCutter.Form1.resources
+C:\Users\Admin\Desktop\PsyShoutTools\AudioCutter\obj\Debug\AudioCutter.Properties.Resources.resources
+C:\Users\Admin\Desktop\PsyShoutTools\AudioCutter\obj\Debug\AudioCutter.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\PsyShoutTools\AudioCutter\obj\Debug\AudioCutter.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\PsyShoutTools\AudioCutter\obj\Debug\AudioCut.FF0D5289.Up2Date
+C:\Users\Admin\Desktop\PsyShoutTools\AudioCutter\obj\Debug\AudioCutter.exe
+C:\Users\Admin\Desktop\PsyShoutTools\AudioCutter\obj\Debug\AudioCutter.pdb
