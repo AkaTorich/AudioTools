@@ -44,18 +44,22 @@
             // 
             // btnLoad
             // 
-            this.btnLoad.Location = new System.Drawing.Point(241, 12);
+            this.btnLoad.BackColor = System.Drawing.Color.DarkOrange;
+            this.btnLoad.ForeColor = System.Drawing.Color.Indigo;
+            this.btnLoad.Location = new System.Drawing.Point(297, 12);
             this.btnLoad.Name = "btnLoad";
-            this.btnLoad.Size = new System.Drawing.Size(414, 23);
+            this.btnLoad.Size = new System.Drawing.Size(360, 23);
             this.btnLoad.TabIndex = 0;
             this.btnLoad.Text = "Выбрать трек";
-            this.btnLoad.UseVisualStyleBackColor = true;
+            this.btnLoad.UseVisualStyleBackColor = false;
             this.btnLoad.Click += new System.EventHandler(this.btnLoad_Click);
             // 
             // lblStart
             // 
             this.lblStart.AutoSize = true;
-            this.lblStart.Location = new System.Drawing.Point(12, 38);
+            this.lblStart.BackColor = System.Drawing.Color.Transparent;
+            this.lblStart.ForeColor = System.Drawing.Color.Fuchsia;
+            this.lblStart.Location = new System.Drawing.Point(317, 38);
             this.lblStart.Name = "lblStart";
             this.lblStart.Size = new System.Drawing.Size(44, 13);
             this.lblStart.TabIndex = 1;
@@ -63,22 +67,26 @@
             // 
             // trackBarStart
             // 
-            this.trackBarStart.Location = new System.Drawing.Point(15, 54);
+            this.trackBarStart.BackColor = System.Drawing.Color.Fuchsia;
+            this.trackBarStart.Location = new System.Drawing.Point(10, 54);
             this.trackBarStart.Name = "trackBarStart";
-            this.trackBarStart.Size = new System.Drawing.Size(642, 45);
+            this.trackBarStart.Size = new System.Drawing.Size(645, 45);
             this.trackBarStart.TabIndex = 2;
             // 
             // trackBarEnd
             // 
-            this.trackBarEnd.Location = new System.Drawing.Point(15, 105);
+            this.trackBarEnd.BackColor = System.Drawing.Color.DeepSkyBlue;
+            this.trackBarEnd.Location = new System.Drawing.Point(10, 115);
             this.trackBarEnd.Name = "trackBarEnd";
-            this.trackBarEnd.Size = new System.Drawing.Size(642, 45);
+            this.trackBarEnd.Size = new System.Drawing.Size(645, 45);
             this.trackBarEnd.TabIndex = 3;
             // 
             // lblEnd
             // 
             this.lblEnd.AutoSize = true;
-            this.lblEnd.Location = new System.Drawing.Point(15, 85);
+            this.lblEnd.BackColor = System.Drawing.Color.Transparent;
+            this.lblEnd.ForeColor = System.Drawing.Color.DeepSkyBlue;
+            this.lblEnd.Location = new System.Drawing.Point(317, 102);
             this.lblEnd.Name = "lblEnd";
             this.lblEnd.Size = new System.Drawing.Size(38, 13);
             this.lblEnd.TabIndex = 4;
@@ -86,18 +94,23 @@
             // 
             // btnCut
             // 
-            this.btnCut.Location = new System.Drawing.Point(241, 139);
+            this.btnCut.BackColor = System.Drawing.Color.DarkOrange;
+            this.btnCut.ForeColor = System.Drawing.Color.Indigo;
+            this.btnCut.Location = new System.Drawing.Point(297, 166);
             this.btnCut.Name = "btnCut";
-            this.btnCut.Size = new System.Drawing.Size(414, 23);
+            this.btnCut.Size = new System.Drawing.Size(360, 23);
             this.btnCut.TabIndex = 5;
             this.btnCut.Text = "Вырезать кусочек";
-            this.btnCut.UseVisualStyleBackColor = true;
+            this.btnCut.UseVisualStyleBackColor = false;
             this.btnCut.Click += new System.EventHandler(this.btnCut_Click);
             // 
             // cmbFormat
             // 
+            this.cmbFormat.BackColor = System.Drawing.Color.DarkOrange;
+            this.cmbFormat.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
+            this.cmbFormat.ForeColor = System.Drawing.Color.Indigo;
             this.cmbFormat.FormattingEnabled = true;
-            this.cmbFormat.Location = new System.Drawing.Point(12, 141);
+            this.cmbFormat.Location = new System.Drawing.Point(10, 168);
             this.cmbFormat.Name = "cmbFormat";
             this.cmbFormat.Size = new System.Drawing.Size(84, 21);
             this.cmbFormat.TabIndex = 6;
@@ -105,6 +118,9 @@
             // lblTotalTime
             // 
             this.lblTotalTime.AutoSize = true;
+            this.lblTotalTime.BackColor = System.Drawing.Color.Transparent;
+            this.lblTotalTime.Cursor = System.Windows.Forms.Cursors.Arrow;
+            this.lblTotalTime.ForeColor = System.Drawing.Color.SpringGreen;
             this.lblTotalTime.Location = new System.Drawing.Point(12, 17);
             this.lblTotalTime.Name = "lblTotalTime";
             this.lblTotalTime.Size = new System.Drawing.Size(186, 13);
@@ -114,7 +130,9 @@
             // lblCutDuration
             // 
             this.lblCutDuration.AutoSize = true;
-            this.lblCutDuration.Location = new System.Drawing.Point(102, 144);
+            this.lblCutDuration.BackColor = System.Drawing.Color.DarkOrange;
+            this.lblCutDuration.ForeColor = System.Drawing.Color.Indigo;
+            this.lblCutDuration.Location = new System.Drawing.Point(100, 171);
             this.lblCutDuration.Name = "lblCutDuration";
             this.lblCutDuration.Size = new System.Drawing.Size(113, 13);
             this.lblCutDuration.TabIndex = 8;
@@ -124,7 +142,8 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(667, 178);
+            this.BackgroundImage = global::AudioCutter.Properties.Resources.ABSTRACT_999997__1_;
+            this.ClientSize = new System.Drawing.Size(667, 201);
             this.Controls.Add(this.lblCutDuration);
             this.Controls.Add(this.lblTotalTime);
             this.Controls.Add(this.cmbFormat);

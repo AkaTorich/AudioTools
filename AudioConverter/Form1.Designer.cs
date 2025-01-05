@@ -37,27 +37,32 @@
             // 
             // openWAVFile
             // 
+            this.openWAVFile.BackColor = System.Drawing.Color.Green;
+            this.openWAVFile.ForeColor = System.Drawing.Color.White;
             this.openWAVFile.Location = new System.Drawing.Point(13, 13);
             this.openWAVFile.Name = "openWAVFile";
             this.openWAVFile.Size = new System.Drawing.Size(400, 23);
             this.openWAVFile.TabIndex = 0;
             this.openWAVFile.Text = "Выбрать файлы";
-            this.openWAVFile.UseVisualStyleBackColor = true;
+            this.openWAVFile.UseVisualStyleBackColor = false;
             this.openWAVFile.Click += new System.EventHandler(this.openWAVFile_Click);
             // 
             // convertToMP3
             // 
+            this.convertToMP3.BackColor = System.Drawing.Color.Green;
+            this.convertToMP3.ForeColor = System.Drawing.Color.White;
             this.convertToMP3.Location = new System.Drawing.Point(14, 66);
             this.convertToMP3.Name = "convertToMP3";
             this.convertToMP3.Size = new System.Drawing.Size(400, 23);
             this.convertToMP3.TabIndex = 2;
             this.convertToMP3.Text = "Конвертировать";
-            this.convertToMP3.UseVisualStyleBackColor = true;
+            this.convertToMP3.UseVisualStyleBackColor = false;
             this.convertToMP3.Click += new System.EventHandler(this.convertFiles_Click);
             // 
             // txtLog
             // 
-            this.txtLog.BackColor = System.Drawing.SystemColors.Info;
+            this.txtLog.BackColor = System.Drawing.Color.Green;
+            this.txtLog.ForeColor = System.Drawing.Color.White;
             this.txtLog.Location = new System.Drawing.Point(14, 95);
             this.txtLog.Multiline = true;
             this.txtLog.Name = "txtLog";
@@ -67,8 +72,9 @@
             // 
             // comboFormat
             // 
-            this.comboFormat.BackColor = System.Drawing.SystemColors.Info;
+            this.comboFormat.BackColor = System.Drawing.Color.Black;
             this.comboFormat.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
+            this.comboFormat.ForeColor = System.Drawing.Color.Fuchsia;
             this.comboFormat.FormattingEnabled = true;
             this.comboFormat.Items.AddRange(new object[] {
             "Выберите формат для конвертации",
@@ -95,6 +101,7 @@
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.MaximizeBox = false;
             this.Name = "Form1";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "AudioConverter";
             this.ResumeLayout(false);
             this.PerformLayout();

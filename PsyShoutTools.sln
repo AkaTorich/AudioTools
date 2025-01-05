@@ -11,11 +11,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AudioConverter", "AudioConv
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageResizer", "ImageResizer\ImageResizer.csproj", "{278F0B79-7654-4A3A-B7A9-F57F331DFB84}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ScaleHelper", "ScaleHelper\ScaleHelper.vcxproj", "{003F7DE9-4752-4AC7-9622-93504E6F3AAE}"
-EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ProjectManager", "ProjectManager\ProjectManager.vcxproj", "{423D9E66-1126-4610-A72C-42028CDB5C9D}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AudioCutter", "AudioCutter\AudioCutter.csproj", "{273ECE08-9812-4AC6-A638-3469DF9B6CA3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScaleSelector", "ScaleSelector\ScaleSelector.csproj", "{2CDE965F-7140-454A-B035-2E25E58969E7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,18 +75,6 @@ Global
 		{278F0B79-7654-4A3A-B7A9-F57F331DFB84}.Release|x64.Build.0 = Release|Any CPU
 		{278F0B79-7654-4A3A-B7A9-F57F331DFB84}.Release|x86.ActiveCfg = Release|Any CPU
 		{278F0B79-7654-4A3A-B7A9-F57F331DFB84}.Release|x86.Build.0 = Release|Any CPU
-		{003F7DE9-4752-4AC7-9622-93504E6F3AAE}.Debug|Any CPU.ActiveCfg = Debug|x64
-		{003F7DE9-4752-4AC7-9622-93504E6F3AAE}.Debug|Any CPU.Build.0 = Debug|x64
-		{003F7DE9-4752-4AC7-9622-93504E6F3AAE}.Debug|x64.ActiveCfg = Debug|x64
-		{003F7DE9-4752-4AC7-9622-93504E6F3AAE}.Debug|x64.Build.0 = Debug|x64
-		{003F7DE9-4752-4AC7-9622-93504E6F3AAE}.Debug|x86.ActiveCfg = Debug|Win32
-		{003F7DE9-4752-4AC7-9622-93504E6F3AAE}.Debug|x86.Build.0 = Debug|Win32
-		{003F7DE9-4752-4AC7-9622-93504E6F3AAE}.Release|Any CPU.ActiveCfg = Release|x64
-		{003F7DE9-4752-4AC7-9622-93504E6F3AAE}.Release|Any CPU.Build.0 = Release|x64
-		{003F7DE9-4752-4AC7-9622-93504E6F3AAE}.Release|x64.ActiveCfg = Release|x64
-		{003F7DE9-4752-4AC7-9622-93504E6F3AAE}.Release|x64.Build.0 = Release|x64
-		{003F7DE9-4752-4AC7-9622-93504E6F3AAE}.Release|x86.ActiveCfg = Release|Win32
-		{003F7DE9-4752-4AC7-9622-93504E6F3AAE}.Release|x86.Build.0 = Release|Win32
 		{423D9E66-1126-4610-A72C-42028CDB5C9D}.Debug|Any CPU.ActiveCfg = Debug|x64
 		{423D9E66-1126-4610-A72C-42028CDB5C9D}.Debug|Any CPU.Build.0 = Debug|x64
 		{423D9E66-1126-4610-A72C-42028CDB5C9D}.Debug|x64.ActiveCfg = Debug|x64
@@ -111,6 +99,18 @@ Global
 		{273ECE08-9812-4AC6-A638-3469DF9B6CA3}.Release|x64.Build.0 = Release|Any CPU
 		{273ECE08-9812-4AC6-A638-3469DF9B6CA3}.Release|x86.ActiveCfg = Release|Any CPU
 		{273ECE08-9812-4AC6-A638-3469DF9B6CA3}.Release|x86.Build.0 = Release|Any CPU
+		{2CDE965F-7140-454A-B035-2E25E58969E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CDE965F-7140-454A-B035-2E25E58969E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CDE965F-7140-454A-B035-2E25E58969E7}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{2CDE965F-7140-454A-B035-2E25E58969E7}.Debug|x64.Build.0 = Debug|Any CPU
+		{2CDE965F-7140-454A-B035-2E25E58969E7}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{2CDE965F-7140-454A-B035-2E25E58969E7}.Debug|x86.Build.0 = Debug|Any CPU
+		{2CDE965F-7140-454A-B035-2E25E58969E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CDE965F-7140-454A-B035-2E25E58969E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2CDE965F-7140-454A-B035-2E25E58969E7}.Release|x64.ActiveCfg = Release|Any CPU
+		{2CDE965F-7140-454A-B035-2E25E58969E7}.Release|x64.Build.0 = Release|Any CPU
+		{2CDE965F-7140-454A-B035-2E25E58969E7}.Release|x86.ActiveCfg = Release|Any CPU
+		{2CDE965F-7140-454A-B035-2E25E58969E7}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

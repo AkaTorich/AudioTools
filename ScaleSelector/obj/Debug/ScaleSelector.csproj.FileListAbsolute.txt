@@ -1,0 +1,13 @@
+C:\Users\Admin\Desktop\PsyShoutTools\ScaleSelector\obj\Debug\ScaleSelector.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\PsyShoutTools\ScaleSelector\obj\Debug\ScaleSelector.Properties.Resources.resources
+C:\Users\Admin\Desktop\PsyShoutTools\ScaleSelector\obj\Debug\ScaleSelector.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\PsyShoutTools\ScaleSelector\obj\Debug\ScaleSelector.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\PsyShoutTools\ScaleSelector\obj\Debug\ScaleSelector.ScaleSelectorForm.resources
+C:\Users\Admin\Desktop\PsyShoutTools\ScaleSelector\bin\Debug\ScaleSelector.exe.config
+C:\Users\Admin\Desktop\PsyShoutTools\ScaleSelector\bin\Debug\ScaleSelector.exe
+C:\Users\Admin\Desktop\PsyShoutTools\ScaleSelector\bin\Debug\ScaleSelector.pdb
+C:\Users\Admin\Desktop\PsyShoutTools\ScaleSelector\obj\Debug\ScaleSelector.exe
+C:\Users\Admin\Desktop\PsyShoutTools\ScaleSelector\obj\Debug\ScaleSelector.pdb
+C:\Users\Admin\Desktop\PsyShoutTools\bin\Debug\ScaleSelector.exe.config
+C:\Users\Admin\Desktop\PsyShoutTools\bin\Debug\ScaleSelector.exe
+C:\Users\Admin\Desktop\PsyShoutTools\bin\Debug\ScaleSelector.pdb

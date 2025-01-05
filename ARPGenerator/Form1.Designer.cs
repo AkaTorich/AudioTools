@@ -48,6 +48,8 @@
             // lblTonica
             // 
             this.lblTonica.AutoSize = true;
+            this.lblTonica.BackColor = System.Drawing.Color.Transparent;
+            this.lblTonica.ForeColor = System.Drawing.Color.Lime;
             this.lblTonica.Location = new System.Drawing.Point(12, 15);
             this.lblTonica.Name = "lblTonica";
             this.lblTonica.Size = new System.Drawing.Size(44, 13);
@@ -56,7 +58,7 @@
             // 
             // cmbBoxTonica
             // 
-            this.cmbBoxTonica.BackColor = System.Drawing.SystemColors.Info;
+            this.cmbBoxTonica.BackColor = System.Drawing.Color.CornflowerBlue;
             this.cmbBoxTonica.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.cmbBoxTonica.FormattingEnabled = true;
             this.cmbBoxTonica.Location = new System.Drawing.Point(113, 12);
@@ -67,6 +69,8 @@
             // lblScale
             // 
             this.lblScale.AutoSize = true;
+            this.lblScale.BackColor = System.Drawing.Color.Transparent;
+            this.lblScale.ForeColor = System.Drawing.Color.Lime;
             this.lblScale.Location = new System.Drawing.Point(12, 42);
             this.lblScale.Name = "lblScale";
             this.lblScale.Size = new System.Drawing.Size(27, 13);
@@ -75,7 +79,7 @@
             // 
             // cmbBoxScale
             // 
-            this.cmbBoxScale.BackColor = System.Drawing.SystemColors.Info;
+            this.cmbBoxScale.BackColor = System.Drawing.Color.CornflowerBlue;
             this.cmbBoxScale.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.cmbBoxScale.FormattingEnabled = true;
             this.cmbBoxScale.Location = new System.Drawing.Point(113, 39);
@@ -86,6 +90,8 @@
             // lblArpNotesCount
             // 
             this.lblArpNotesCount.AutoSize = true;
+            this.lblArpNotesCount.BackColor = System.Drawing.Color.Transparent;
+            this.lblArpNotesCount.ForeColor = System.Drawing.Color.Lime;
             this.lblArpNotesCount.Location = new System.Drawing.Point(12, 69);
             this.lblArpNotesCount.Name = "lblArpNotesCount";
             this.lblArpNotesCount.Size = new System.Drawing.Size(61, 13);
@@ -105,6 +111,8 @@
             // lblTactsNumber
             // 
             this.lblTactsNumber.AutoSize = true;
+            this.lblTactsNumber.BackColor = System.Drawing.Color.Transparent;
+            this.lblTactsNumber.ForeColor = System.Drawing.Color.Lime;
             this.lblTactsNumber.Location = new System.Drawing.Point(12, 95);
             this.lblTactsNumber.Name = "lblTactsNumber";
             this.lblTactsNumber.Size = new System.Drawing.Size(78, 13);
@@ -124,6 +132,8 @@
             // lblRepeatsNumber
             // 
             this.lblRepeatsNumber.AutoSize = true;
+            this.lblRepeatsNumber.BackColor = System.Drawing.Color.Transparent;
+            this.lblRepeatsNumber.ForeColor = System.Drawing.Color.Lime;
             this.lblRepeatsNumber.Location = new System.Drawing.Point(12, 121);
             this.lblRepeatsNumber.Name = "lblRepeatsNumber";
             this.lblRepeatsNumber.Size = new System.Drawing.Size(91, 13);
@@ -142,22 +152,26 @@
             // 
             // btnGenerate
             // 
+            this.btnGenerate.BackColor = System.Drawing.Color.DarkViolet;
+            this.btnGenerate.ForeColor = System.Drawing.Color.White;
             this.btnGenerate.Location = new System.Drawing.Point(12, 144);
             this.btnGenerate.Name = "btnGenerate";
             this.btnGenerate.Size = new System.Drawing.Size(222, 42);
             this.btnGenerate.TabIndex = 10;
             this.btnGenerate.Text = "Генерировать";
-            this.btnGenerate.UseVisualStyleBackColor = true;
+            this.btnGenerate.UseVisualStyleBackColor = false;
             this.btnGenerate.Click += new System.EventHandler(this.btnGenerate_Click);
             // 
             // btnPlayMidi
             // 
+            this.btnPlayMidi.BackColor = System.Drawing.Color.DarkViolet;
+            this.btnPlayMidi.ForeColor = System.Drawing.Color.White;
             this.btnPlayMidi.Location = new System.Drawing.Point(240, 12);
             this.btnPlayMidi.Name = "btnPlayMidi";
             this.btnPlayMidi.Size = new System.Drawing.Size(299, 23);
             this.btnPlayMidi.TabIndex = 11;
             this.btnPlayMidi.Text = "Воспроизвести MIDI";
-            this.btnPlayMidi.UseVisualStyleBackColor = true;
+            this.btnPlayMidi.UseVisualStyleBackColor = false;
             // 
             // txtProgression
             // 
@@ -192,6 +206,7 @@
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.MaximizeBox = false;
             this.Name = "Form1";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Arpeggio Generator";
             this.ResumeLayout(false);
             this.PerformLayout();

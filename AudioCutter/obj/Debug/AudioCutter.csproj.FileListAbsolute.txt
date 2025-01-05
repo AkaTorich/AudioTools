@@ -9,3 +9,5 @@ C:\Users\Admin\Desktop\PsyShoutTools\AudioCutter\obj\Debug\AudioCutter.csproj.Co
 C:\Users\Admin\Desktop\PsyShoutTools\AudioCutter\obj\Debug\AudioCut.FF0D5289.Up2Date
 C:\Users\Admin\Desktop\PsyShoutTools\AudioCutter\obj\Debug\AudioCutter.exe
 C:\Users\Admin\Desktop\PsyShoutTools\AudioCutter\obj\Debug\AudioCutter.pdb
+C:\Users\Admin\Desktop\PsyShoutTools\bin\Debug\libmp3lame.32.dll
+C:\Users\Admin\Desktop\PsyShoutTools\bin\Debug\libmp3lame.64.dll
